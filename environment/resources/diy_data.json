@@ -1,0 +1,43 @@
+[{
+	"breed_str": "Desk",
+	"creator": "Matt",
+	"date_uploaded": "2019-01-02TT17:19:52.608Z",
+	"notable_features_str": "Features a custom built desk with a Computer built inside of it. Has a Glass Top",
+	"petname_str": "PC_Desk"
+},{
+	"breed_str": "Desk",
+	"creator": "John",
+	"date_uploaded": "2019-01-05T12:30:52.608Z",
+	"notable_features_str": "A wooden Desk handmade to perfection",
+	"petname_str": "Wooden_Desk"
+},{
+	"breed_str": "Sign",
+	"date_uploaded": "2019-03-02T16:12:52.608Z",
+	"creator": "Sarah",
+	"notable_features_str": "A rustic sign hand made with different pieces of wood",
+	"petname_str": "Rustic_Sign"
+},{
+	"breed_str": "Sign",
+	"date_uploaded": "2019-04-02T16:07:58.608Z",
+	"creator": "Luke",
+	"notable_features_str": "Modern sign with LED lights in it, cut with a laser",
+	"petname_str": "Modern_Sign"
+},{
+	"breed_str": "Couch",
+	"creator": "Viviana",
+	"date_uploaded": "2019-01-02TT17:19:52.608Z",
+	"notable_features_str": "A comfortable L-shaped couch",
+	"petname_str": "L_Shape_Couch"
+},{
+	"breed_str": "Couch",
+	"creator": "Riley",
+	"date_uploaded": "2019-01-02TT17:19:52.608Z",
+	"notable_features_str": "A comfortabnle couch to sit in",
+	"petname_str": "Love_Seat"
+},{
+	"breed_str": "ToolBox",
+	"creator": "Jaclyn",
+	"date_uploaded": "2019-01-02TT17:19:52.608Z",
+	"notable_features_str": "Simple toolbox that can hold amny tools that are needed for projects",
+	"petname_str": "Simple_ToolBox"
+}]
